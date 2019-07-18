@@ -1,6 +1,6 @@
 # SG Bill Collector
 
-All Bills introduced in the Singapore Parliament are on its <a href='https://www.parliament.gov.sg/parliamentary-business/bills-introduced?keyword=&title=&year=&page=1&pageSize=40'>website</a>. If you are ever so inclined to collect them all, it's your lucky day!
+All Bills introduced in the Singapore Parliament - going back to just 2006 - are on its <a href='https://www.parliament.gov.sg/parliamentary-business/bills-introduced?keyword=&title=&year=&page=1&pageSize=40'>website</a>. If you are ever so inclined to collect them all, it's your lucky day!
 
 ## Output
 
